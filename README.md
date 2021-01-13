@@ -1,5 +1,5 @@
-# 척 노리스/사실 랜덤 출력 앱
-co scc
+# 척 노리스 밈 랜덤 출력 앱
+no scc
 
 # Getting Started with Create React App
 
