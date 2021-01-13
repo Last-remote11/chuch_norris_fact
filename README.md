@@ -1,3 +1,6 @@
+# 척 노리스/사실 랜덤 출력 앱
+co scc
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
